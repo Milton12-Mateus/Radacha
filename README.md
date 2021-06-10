@@ -7,5 +7,5 @@ Foco:
 
 Técnologias:
     Síntese de Voz.
-    Reconhecimento de Voz.
+    Reconhecimento de Voz(Google).
     Algum tipo de IA.
